@@ -1,0 +1,616 @@
+58-1: Touch all objects that are green.
+59-1: Touch all objects that are triangular.
+61-1: Touch all objects that are red.
+68-1: Touch all objects that are square.
+69-1: Touch all objects that are triangular.
+70-1: Touch all objects that are small.
+71-1: Touch all objects that are triangular.
+72-1: Touch all objects that are small.
+76-1: Touch all objects that are triangular.
+79-1: Touch all objects that are triangular.
+81-1: Touch all objects that are square.
+82-1: Touch all objects that are square.
+83-1: Touch all objects that are blue.
+
+58-2: Touch all objects that are blue.
+59-2: Touch all objects that are triangular.
+61-2: Touch all objects that are square.
+68-2: Touch all objects that are blue.
+69-2: Touch all objects that are small.
+70-2: Touch all objects that are green.
+71-2: Touch all objects that are triangular.
+72-2: Touch all objects that are triangular.
+76-2: Touch all objects that are small.
+79-2: Touch all objects that are small.
+81-2: Touch all objects that are small.
+82-2: Touch all objects that are small.
+83-2: Touch all objects that are green.
+
+58-3: Touch all objects that are red.
+59-3: Touch all objects that are square.
+61-3: Touch all objects that are triangular.
+68-3: Touch all objects that are big.
+69-3: Touch all objects that are blue.
+70-3: Touch all objects that are blue.
+71-3: Touch all objects that are blue.
+72-3: Touch all objects that are triangular.
+76-3: Touch all objects that are square.
+79-3: Touch all objects that are red.
+81-3: Touch all objects that are red.
+82-3: Touch all objects that are big.
+83-3: Touch all objects that are blue.
+
+58-4: Touch all objects that are square.
+59-4: Touch all objects that are red.
+61-4: Touch all objects that are green.
+68-4: Touch all objects that are green.
+69-4: Touch all objects that are small.
+70-4: Touch all objects that are triangular.
+71-4: Touch all objects that are small.
+72-4: Touch all objects that are small.
+76-4: Touch all objects that are blue.
+79-4: Touch all objects that are small.
+81-4: Touch all objects that are triangular.
+82-4: Touch all objects that are green.
+83-4: Touch all objects that are small.
+
+58-5: Touch all objects that are triangular.
+59-5: Touch all objects that are big.
+61-5: Touch all objects that are red.
+68-5: Touch all objects that are small.
+69-5: Touch all objects that are blue.
+70-5: Touch all objects that are triangular.
+71-5: Touch all objects that are red.
+72-5: Touch all objects that are red.
+76-5: Touch all objects that are big.
+79-5: Touch all objects that are small.
+81-5: Touch all objects that are big.
+82-5: Touch all objects that are small.
+83-5: Touch all objects that are triangular.
+
+58-6: While going forwards, touch all objects that are square.
+59-6: Touch all objects that are triangular.
+61-6: Touch all objects that are not [square].
+68-6: Touch all objects that are small.
+69-6: While going backwards, touch all objects that are not [square].
+70-6: While going forwards, touch all objects that are square.
+71-6: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+72-6: Touch at least one object that is not [big] or small, and while going backwards, touch exactly one object that is [green and triangular].
+76-6: Touch all objects that are triangular.
+79-6: While going forwards, touch exactly two objects that are triangular or [big and red], or while going forwards, touch at least one but not all objects that are small.
+81-6: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+82-6: While going forwards, touch at least one object that is not [red or triangular], or while going forwards, touch at least one but not all objects that are green or small.
+83-6: Touch at least one but not all objects that are big.
+
+58-7: Touch all objects that are red.
+59-7: While going forwards, touch all objects that are triangular.
+61-7: Touch all objects that are big.
+68-7: Touch all objects that are big.
+69-7: While going forwards, touch exactly two objects that are big.
+70-7: Touch all objects that are small.
+71-7: While going forwards, touch all objects that are triangular.
+72-7: While going backwards, touch all objects that are triangular.
+76-7: Touch all objects that are not [square].
+79-7: Touch all objects that are square.
+81-7: Touch all objects that are blue.
+82-7: Touch all objects that are red.
+83-7: While going forwards, touch at least one object that is triangular.
+
+58-8: Touch all objects that are not [square].
+59-8: Touch all objects that are not [big or square].
+61-8: Touch all objects that are square.
+68-8: While going forwards, touch at least one but not all objects that are [red and square].
+69-8: While going forwards, touch at least one but not all objects that are not [green].
+70-8: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+71-8: Touch all objects that are [small and green] or square, or while going backwards, touch exactly one object that is [big and triangular].
+72-8: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+76-8: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+79-8: While going backwards, touch all objects that are [big and square], or while going forwards, touch exactly two objects that are small.
+81-8: Touch at least one but not all objects that are big.
+82-8: Touch all objects that are triangular.
+83-8: Touch all objects that are triangular.
+
+58-9: While going forwards, touch all objects that are square, or while going backwards, touch at least one object that is triangular.
+59-9: Touch all objects that are square.
+61-9: Touch at least one but not all objects that are not [square or [big and triangular]].
+68-9: Touch all objects that are red.
+69-9: Touch at least one but not all objects that are big.
+70-9: Touch at least one object that is blue.
+71-9: While going forwards, touch at least one but not all objects that are blue.
+72-9: While going forwards, touch exactly one object that is not [big], or while going backwards, touch at least one but not all objects that are square.
+76-9: While going forwards, touch exactly one object that is [small and triangular].
+79-9: Touch all objects that are square.
+81-9: Touch all objects that are small.
+82-9: While going forwards, touch exactly one object that is not [big], or while going backwards, touch at least one but not all objects that are square.
+83-9: While going backwards, touch all objects that are small.
+
+58-10: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+59-10: Touch all objects that are blue.
+61-10: While going forwards, touch at least one object that is triangular.
+68-10: While going backwards, touch exactly one object that is big.
+69-10: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+70-10: While going forwards, touch exactly two objects that are [red and triangular], or while going backwards, touch at least one but not all objects that are green.
+71-10: Touch all objects that are [small and red].
+72-10: Touch all objects that are small.
+76-10: Touch all objects that are [green and square].
+79-10: Touch at least one but not all objects that are [small and blue], or while going backwards, touch exactly two objects that are not [big].
+81-10: While going backwards, touch all objects that are triangular.
+82-10: While going backwards, touch all objects that are not [square].
+83-10: Touch all objects that are small.
+
+58-11: While going forwards, touch at least one object that is [blue and triangular].
+59-11: Touch all objects that are square.
+61-11: Touch at least one object that is square.
+68-11: Touch exactly one object that is big.
+69-11: While going forwards, touch at least one but not all objects that are [red and square].
+70-11: Touch exactly one object that is small or not [square] or big.
+71-11: Touch all objects that are triangular.
+72-11: Touch exactly one object that is triangular.
+76-11: Touch all objects that are square.
+79-11: While going forwards, touch exactly two objects that are big.
+81-11: Touch at least one object that is green.
+82-11: While going forwards, touch exactly two objects that are triangular or [big and red], or while going forwards, touch at least one but not all objects that are small.
+83-11: Touch exactly one object that is small.
+
+58-12: Touch all objects that are triangular.
+59-12: Touch all objects that are triangular or square.
+61-12: Touch all objects that are small.
+68-12: Touch all objects that are small.
+69-12: Touch all objects that are not [square].
+70-12: Touch exactly one object that is big.
+71-12: While going backwards, touch at least one but not all objects that are triangular.
+72-12: Touch exactly one object that is big.
+76-12: Touch all objects that are square.
+79-12: Touch all objects that are not [square].
+81-12: Touch all objects that are square.
+82-12: While going forwards, touch exactly two objects that are green.
+83-12: Touch all objects that are triangular.
+
+58-13: Touch at least one object that is square.
+59-13: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+61-13: While going backwards, touch exactly one object that is big.
+68-13: While going backwards, touch exactly one object that is small.
+69-13: Touch all objects that are not [big or square].
+70-13: Touch all objects that are triangular or square.
+71-13: While going forwards, touch at least one object that is triangular.
+72-13: Touch at least one but not all objects that are not [green], or while going forwards, touch exactly one object that is big.
+76-13: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+79-13: While going backwards, touch exactly two objects that are triangular.
+81-13: Touch all objects that are blue.
+82-13: Touch exactly one object that is not [small].
+83-13: While going backwards, touch exactly one object that is small.
+
+58-14: While going backwards, touch all objects that are green.
+59-14: While going forwards, touch all objects that are square.
+61-14: While going forwards, touch exactly one object that is triangular.
+68-14: Touch at least one object that is green.
+69-14: While going forwards, touch exactly one object that is [small and triangular].
+70-14: Touch exactly two objects that are big.
+71-14: While going forwards, touch all objects that are square, or while going backwards, touch at least one object that is triangular.
+72-14: While going forwards, touch all objects that are not [triangular].
+76-14: Touch all objects that are triangular.
+79-14: While going backwards, touch exactly one object that is big.
+81-14: Touch exactly one object that is triangular.
+82-14: Touch exactly two objects that are triangular.
+83-14: Touch exactly one object that is red.
+
+58-15: While going forwards, touch exactly one object that is [small and triangular].
+59-15: Touch all objects that are triangular.
+61-15: Touch exactly one object that is square.
+68-15: While going forwards, touch exactly one object that is [small and triangular].
+69-15: While going backwards, touch exactly one object that is small.
+70-15: Touch all objects that are green.
+71-15: While going forwards, touch exactly two objects that are green.
+72-15: While going backwards, touch exactly two objects that are triangular.
+76-15: While going backwards, touch all objects that are [big and square], or while going forwards, touch exactly two objects that are small.
+79-15: Touch exactly two objects that are triangular.
+81-15: Touch at least one but not all objects that are [small and blue], or while going backwards, touch exactly two objects that are not [big].
+82-15: Touch at least one object that is blue.
+83-15: While going forwards, touch all objects that are blue.
+
+58-16: Touch all objects that are blue.
+59-16: Touch at least one but not all objects that are not [green], or while going forwards, touch exactly one object that is big.
+61-16: Touch all objects that are not [big or square].
+68-16: Touch all objects that are big.
+69-16: Touch all objects that are small.
+70-16: While going backwards, touch all objects that are big, or while going backwards, touch at least one but not all objects that are blue.
+71-16: While going forwards, touch at least one object that is not [red or triangular], or while going forwards, touch at least one but not all objects that are green or small.
+72-16: While going backwards, touch all objects that are not [square].
+76-16: While going forwards, touch exactly one object that is triangular.
+79-16: Touch all objects that are blue.
+81-16: While going forwards, touch exactly two objects that are triangular or [big and red], or while going forwards, touch at least one but not all objects that are small.
+82-16: Touch all objects that are blue.
+83-16: While going forwards, touch exactly two objects that are green.
+
+58-17: Touch at least one object that is [red and square].
+59-17: Touch all objects that are small.
+61-17: Touch all objects that are triangular.
+68-17: Touch exactly one object that is small.
+69-17: While going forwards, touch exactly one object that is small, or touch all objects that are big.
+70-17: Touch all objects that are not [big].
+71-17: Touch all objects that are red.
+72-17: While going backwards, touch at least one object that is not [small] or blue.
+76-17: While going forwards, touch exactly two objects that are [red and triangular], or while going backwards, touch at least one but not all objects that are green.
+79-17: Touch all objects that are blue.
+81-17: Touch exactly one object that is square.
+82-17: While going forwards, touch exactly one object that is [small and triangular].
+83-17: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+
+58-18: Touch all objects that are [small and green] or square, or while going backwards, touch exactly one object that is [big and triangular].
+59-18: Touch all objects that are square.
+61-18: While going forwards, touch at least one object that is not [red or triangular], or while going forwards, touch at least one but not all objects that are green or small.
+68-18: While going backwards, touch exactly one object that is not [square], or touch exactly one object that is big.
+69-18: While going forwards, touch at least one object that is triangular.
+70-18: While going forwards, touch exactly one object that is not [big], or while going backwards, touch at least one but not all objects that are square.
+71-18: Touch all objects that are not [big].
+72-18: While going backwards, touch at least one object that is small or red, and while going forwards, touch at least one object that is square, or while going backwards, touch at least one object that is big.
+76-18: While going forwards, touch at least one object that is [blue and triangular].
+79-18: While going forwards, touch exactly one object that is small, or touch all objects that are big.
+81-18: While going backwards, touch exactly one object that is big.
+82-18: While going backwards, touch at least one object that is not [small] or blue.
+83-18: Touch all objects that are [small and red].
+
+58-19: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+59-19: While going backwards, touch all objects that are triangular.
+61-19: Touch all objects that are blue.
+68-19: Touch all objects that are blue.
+69-19: Touch all objects that are big.
+70-19: While going backwards, touch all objects that are not [square].
+71-19: Touch all objects that are square.
+72-19: Touch all objects that are [small and green] or square, or while going backwards, touch exactly one object that is [big and triangular].
+76-19: Touch all objects that are triangular.
+79-19: Touch all objects that are green.
+81-19: Touch exactly two objects that are small.
+82-19: Touch all objects that are red.
+83-19: Touch exactly one object that is small.
+
+58-20: While going forwards, touch at least one but not all objects that are blue.
+59-20: Touch at least one but not all objects that are not [square or [big and triangular]].
+61-20: While going forwards, touch all objects that are not [triangular].
+68-20: While going forwards, touch exactly two objects that are triangular or [big and red], or while going forwards, touch at least one but not all objects that are small.
+69-20: Touch exactly two objects that are triangular.
+70-20: While going backwards, touch at least one but not all objects that are triangular.
+71-20: Touch exactly one object that is not [small].
+72-20: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+76-20: While going backwards, touch at least one object that is not [small] or blue.
+79-20: Touch exactly two objects that are small.
+81-20: While going forwards, touch at least one but not all objects that are blue.
+82-20: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+83-20: Touch all objects that are blue.
+
+58-21: Touch exactly one object that is square.
+59-21: Touch all objects that are small.
+61-21: While going forwards, touch exactly two objects that are big.
+68-21: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+69-21: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+70-21: Touch all objects that are blue.
+71-21: While going forwards, touch at least one but not all objects that are triangular or big.
+72-21: While going forwards, touch exactly one object that is small, or touch all objects that are big.
+76-21: While going forwards, touch exactly two objects that are triangular or [big and red], or while going forwards, touch at least one but not all objects that are small.
+79-21: Touch all objects that are [small and red].
+81-21: While going forwards, touch exactly two objects that are green.
+82-21: Touch at least one object that is not [big] or small, and while going backwards, touch exactly one object that is [green and triangular].
+83-21: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+
+58-22: While going forwards, touch at least one but not all objects that are triangular or big.
+59-22: Touch exactly one object that is small.
+61-22: While going backwards, touch all objects that are small.
+68-22: While going forwards, touch all objects that are square.
+69-22: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+70-22: While going backwards, touch all objects that are small.
+71-22: Touch at least one object that is blue.
+72-22: While going forwards, touch all objects that are triangular.
+76-22: Touch all objects that are small.
+79-22: While going backwards, touch at least one object that is small or red, and while going forwards, touch at least one object that is square, or while going backwards, touch at least one object that is big.
+81-22: While going forwards, touch exactly one object that is not [big], or while going backwards, touch at least one but not all objects that are square.
+82-22: Touch all objects that are square.
+83-22: Touch exactly one object that is big.
+
+58-23: Touch all objects that are square.
+59-23: Touch exactly one object that is big.
+61-23: Touch exactly one object that is small.
+68-23: Touch all objects that are [green and square].
+69-23: Touch all objects that are red.
+70-23: Touch all objects that are blue.
+71-23: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+72-23: While going forwards, touch all objects that are square, or while going backwards, touch at least one object that is triangular.
+76-23: While going backwards, touch all objects that are big, or while going backwards, touch at least one but not all objects that are blue.
+79-23: Touch all objects that are square.
+81-23: Touch all objects that are big.
+82-23: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+83-23: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+
+58-24: Touch all objects that are blue.
+59-24: Touch at least one but not all objects that are big.
+61-24: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+68-24: While going backwards, touch exactly two objects that are triangular.
+69-24: While going backwards, touch exactly one object that is not [square], or touch exactly one object that is big.
+70-24: Touch at least one object that is square.
+71-24: Touch all objects that are small.
+72-24: Touch all objects that are square.
+76-24: While going forwards, touch at least one but not all objects that are triangular or big.
+79-24: While going forwards, touch exactly one object that is triangular.
+81-24: Touch exactly one object that is small.
+82-24: Touch all objects that are small.
+83-24: Touch all objects that are not [big or small] or not [blue].
+
+58-25: While going backwards, touch exactly one object that is not [square], or touch exactly one object that is big.
+59-25: Touch at least one but not all objects that are [small and blue], or while going backwards, touch exactly two objects that are not [big].
+61-25: While going forwards, touch exactly two objects that are [red and triangular], or while going backwards, touch at least one but not all objects that are green.
+68-25: Touch at least one but not all objects that are not [square or [big and triangular]].
+69-25: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+70-25: Touch all objects that are not [big or square].
+71-25: Touch exactly one object that is square.
+72-25: While going forwards, touch all objects that are square.
+76-25: Touch all objects that are small.
+79-25: While going forwards, touch all objects that are blue.
+81-25: While going forwards, touch all objects that are blue.
+82-25: While going backwards, touch all objects that are [big and square], or while going forwards, touch exactly two objects that are small.
+83-25: Touch all objects that are triangular.
+
+58-26: Touch all objects that are square.
+59-26: Touch all objects that are small.
+61-26: Touch all objects that are [green and square].
+68-26: Touch all objects that are triangular.
+69-26: Touch all objects that are small.
+70-26: Touch all objects that are blue.
+71-26: Touch at least one but not all objects that are not [square or [big and triangular]].
+72-26: Touch at least one but not all objects that are not [square or [big and triangular]].
+76-26: While going backwards, touch exactly one object that is small.
+79-26: Touch all objects that are green.
+81-26: Touch all objects that are not [square].
+82-26: While going backwards, touch all objects that are green.
+83-26: Touch all objects that are square.
+
+58-27: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+59-27: While going backwards, touch exactly one object that is not [square], or touch exactly one object that is big.
+61-27: Touch at least one but not all objects that are not [green], or while going forwards, touch exactly one object that is big.
+68-27: Touch exactly one object that is small.
+69-27: While going forwards, touch at least one but not all objects that are square, or while going backwards, touch at least one but not all objects that are big.
+70-27: Touch all objects that are green.
+71-27: Touch all objects that are not [big or small] or not [blue].
+72-27: Touch all objects that are green.
+76-27: Touch all objects that are small.
+79-27: Touch all objects that are not [big or square].
+81-27: While going forwards, touch at least one object that is [blue and triangular].
+82-27: Touch all objects that are small.
+83-27: While going forwards, touch exactly one object that is triangular.
+
+58-28: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+59-28: While going forwards, touch at least one but not all objects that are triangular or big.
+61-28: While going backwards, touch exactly one object that is [small, blue, and triangular].
+68-28: Touch all objects that are not [big or small] or not [blue].
+69-28: Touch at least one object that is blue.
+70-28: Touch exactly one object that is square.
+71-28: While going backwards, touch at least one object that is small or red, and while going forwards, touch at least one object that is square, or while going backwards, touch at least one object that is big.
+72-28: Touch at least one object that is blue.
+76-28: While going forwards, touch all objects that are not [triangular].
+79-28: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+81-28: Touch exactly one object that is not [small].
+82-28: While going backwards, touch all objects that are [big and green] or blue, or touch exactly two objects that are small.
+83-28: Touch exactly two objects that are triangular.
+
+58-29: While going backwards, touch exactly one object that is big.
+59-29: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+61-29: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+68-29: While going backwards, touch at least one object that is [big and triangular], or while going backwards, touch all objects that are red.
+69-29: Touch all objects that are big.
+70-29: Touch at least one but not all objects that are big.
+71-29: While going backwards, touch all objects that are small.
+72-29: Touch all objects that are not [big or small] or not [blue].
+76-29: Touch all objects that are not [big or small] or not [blue].
+79-29: Touch all objects that are small.
+81-29: Touch at least one object that is not [big] or small, and while going backwards, touch exactly one object that is [green and triangular].
+82-29: While going forwards, touch at least one but not all objects that are triangular or big.
+83-29: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+
+58-30: Touch at least one object that is green.
+59-30: Touch exactly one object that is small.
+61-30: While going forwards, touch at least one but not all objects that are triangular or big.
+68-30: While going forwards, touch all objects that are small.
+69-30: While going backwards, touch all objects that are small.
+70-30: While going forwards, touch all objects that are blue.
+71-30: Touch at least one object that is green.
+72-30: Touch all objects that are big.
+76-30: Touch all objects that are big.
+79-30: While going forwards, touch exactly one object that is not [big], or while going backwards, touch at least one but not all objects that are square.
+81-30: While going forwards, touch all objects that are small.
+82-30: While going backwards, touch exactly one object that is big.
+83-30: While going backwards, touch at least one object that is [big and triangular], or while going backwards, touch all objects that are red.
+
+58-31: While going backwards, touch all objects that are big, or while going backwards, touch at least one but not all objects that are blue.
+59-31: Touch all objects that are blue.
+61-31: Touch exactly two objects that are big.
+68-31: While going forwards, touch all objects that are not [[small and triangular] or big], or touch at least one but not all objects that are square.
+69-31: Touch all objects that are small.
+70-31: Touch all objects that are big.
+71-31: Touch exactly one object that is triangular.
+72-31: While going backwards, touch exactly one object that is big or red or small, or while going forwards, touch at least one object that is triangular.
+76-31: Touch at least one but not all objects that are not [square or [big and triangular]].
+79-31: Touch at least one object that is square.
+81-31: Touch all objects that are not [big or small] or not [blue].
+82-31: Touch all objects that are blue.
+83-31: Touch exactly one object that is not [small].
+
+58-32: While going forwards, touch exactly two objects that are [red and triangular], or while going backwards, touch at least one but not all objects that are green.
+59-32: While going forwards, touch at least one object that is not [red or triangular], or while going forwards, touch at least one but not all objects that are green or small.
+61-32: Touch at least one object that is not [big] or small, and while going backwards, touch exactly one object that is [green and triangular].
+68-32: Touch all objects that are square.
+69-32: Touch all objects that are square.
+70-32: While going forwards, touch exactly two objects that are green.
+71-32: While going backwards, touch all objects that are big, or while going backwards, touch at least one but not all objects that are blue.
+72-32: Touch exactly one object that is small or not [square] or big.
+76-32: Touch exactly two objects that are big.
+79-32: Touch all objects that are triangular or square.
+81-32: Touch exactly one object that is big.
+82-32: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+83-32: While going backwards, touch all objects that are [big and square], or while going forwards, touch exactly two objects that are small.
+
+58-33: Touch all objects that are square.
+59-33: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+61-33: Touch all objects that are red.
+68-33: Touch all objects that are [small and green] or square, or while going backwards, touch exactly one object that is [big and triangular].
+69-33: Touch all objects that are triangular.
+70-33: Touch all objects that are big.
+71-33: Touch exactly one object that is big.
+72-33: While going forwards, touch at least one but not all objects that are [big and square], or touch at least one object that is small.
+76-33: Touch all objects that are triangular or square.
+79-33: Touch at least one object that is green.
+81-33: Touch all objects that are small.
+82-33: Touch all objects that are blue.
+83-33: Touch exactly one object that is square.
+
+58-34: While going backwards, touch at least one object that is not [small] or blue.
+59-34: Touch exactly two objects that are small.
+61-34: Touch exactly one object that is triangular.
+68-34: Touch all objects that are triangular.
+69-34: Touch at least one but not all objects that are [small and blue], or while going backwards, touch exactly two objects that are not [big].
+70-34: While going forwards, touch at least one but not all objects that are blue.
+71-34: While going forwards, touch exactly two objects that are [red and triangular], or while going backwards, touch at least one but not all objects that are green.
+72-34: Touch all objects that are small.
+76-34: While going backwards, touch exactly one object that is [small, blue, and triangular].
+79-34: Touch all objects that are big.
+81-34: Touch all objects that are small.
+82-34: Touch all objects that are triangular.
+83-34: While going backwards, touch all objects that are triangular.
+
+58-35: Touch all objects that are triangular.
+59-35: Touch at least one object that is not [big] or small, and while going backwards, touch exactly one object that is [green and triangular].
+61-35: Touch all objects that are small.
+68-35: While going forwards, touch all objects that are square.
+69-35: Touch all objects that are square.
+70-35: While going forwards, touch all objects that are square.
+71-35: Touch all objects that are big.
+72-35: Touch exactly two objects that are small.
+76-35: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+79-35: While going backwards, touch at least one but not all objects that are big, or touch at least one but not all objects that are not [small].
+81-35: Touch all objects that are red.
+82-35: Touch all objects that are square.
+83-35: Touch all objects that are red.
+
+58-36: While going forwards, touch at least one but not all objects that are not [green].
+59-36: While going forwards, touch exactly two objects that are big.
+61-36: Touch all objects that are small.
+68-36: While going forwards, touch all objects that are triangular.
+69-36: Touch exactly one object that is triangular.
+70-36: Touch all objects that are not [square].
+71-36: While going backwards, touch exactly one object that is not [red], or touch all objects that are big or triangular.
+72-36: Touch all objects that are triangular.
+76-36: While going backwards, touch all objects that are not [square].
+79-36: Touch all objects that are small.
+81-36: Touch all objects that are red.
+82-36: While going backwards, touch exactly two objects that are triangular.
+83-36: While going forwards, touch all objects that are small.
+
+58-37: While going forwards, touch at least one but not all objects that are square, or while going backwards, touch at least one but not all objects that are big.
+59-37: Touch all objects that are red.
+61-37: Touch all objects that are green.
+68-37: Touch exactly one object that is small or not [square] or big.
+69-37: While going forwards, touch all objects that are not [triangular].
+70-37: Touch all objects that are big.
+71-37: Touch all objects that are triangular.
+72-37: Touch all objects that are not [big].
+76-37: Touch all objects that are small.
+79-37: While going forwards, touch at least one object that is not [red or triangular], or while going forwards, touch at least one but not all objects that are green or small.
+81-37: Touch all objects that are triangular.
+82-37: While going forwards, touch all objects that are square, or while going backwards, touch at least one object that is triangular.
+83-37: Touch at least one but not all objects that are not [square or [big and triangular]].
+
+58-38: Touch all objects that are big.
+59-38: Touch all objects that are [green and square].
+61-38: Touch all objects that are green.
+68-38: While going forwards, touch at least one but not all objects that are triangular or big.
+69-38: Touch all objects that are blue.
+70-38: While going backwards, touch all objects that are green.
+71-38: Touch exactly one object that is big, or while going forwards, touch at least one but not all objects that are not [small].
+72-38: While going forwards, touch exactly one object that is triangular.
+76-38: While going backwards, touch at least one but not all objects that are small, or touch exactly one object that is triangular.
+79-38: While going backwards, touch all objects that are big, or while going backwards, touch at least one but not all objects that are blue.
+81-38: While going backwards, touch all objects that are not [square].
+82-38: Touch all objects that are triangular.
+83-38: Touch all objects that are blue.
+
+58-39: Touch at least one but not all objects that are not [green], or while going forwards, touch exactly one object that is big.
+59-39: While going forwards, touch all objects that are square.
+61-39: Touch all objects that are blue.
+68-39: While going backwards, touch exactly one object that is [small, blue, and triangular].
+69-39: While going forwards, touch all objects that are square, or while going backwards, touch at least one object that is triangular.
+70-39: While going forwards, touch exactly one object that is [small and triangular].
+71-39: While going forwards, touch exactly one object that is triangular.
+72-39: While going backwards, touch all objects that are green.
+76-39: Touch at least one object that is green.
+79-39: While going forwards, touch all objects that are square.
+81-39: Touch all objects that are green.
+82-39: Touch all objects that are small.
+83-39: Touch exactly one object that is triangular.
+
+58-40: While going forwards, touch all objects that are small.
+59-40: Touch all objects that are small.
+61-40: While going forwards, touch exactly two objects that are green.
+68-40: Touch at least one object that is blue.
+69-40: Touch at least one object that is square.
+70-40: Touch all objects that are triangular.
+71-40: Touch all objects that are green.
+72-40: While going forwards, touch at least one but not all objects that are [red and square].
+76-40: Touch all objects that are [small and red].
+79-40: Touch exactly two objects that are big.
+81-40: While going forwards, touch at least one but not all objects that are [big and square], or touch at least one object that is small.
+82-40: Touch at least one but not all objects that are big.
+83-40: While going backwards, touch all objects that are green.
+
+58-41: Touch exactly one object that is square on the outside and triangular on the inside.
+59-41: Touch exactly one object that is square on the outside and triangular on the inside.
+61-41: Touch exactly three objects that are red.
+68-41: Touch exactly three objects that are red.
+69-41: Touch exactly three objects that are red.
+70-41: Touch exactly one object that is square on the outside and triangular on the inside.
+71-41: Touch exactly one object that is [partially but not all] blue.
+72-41: Touch all but one objects that are triangular.
+76-41: Touch exactly one object that is [partially but not all] blue.
+79-41: Touch exactly one object that is [partially but not all] blue.
+81-41: Touch exactly one object that is square on the outside and triangular on the inside.
+82-41: Touch exactly one object that is square on the outside and triangular on the inside.
+83-41: Touch all but one objects that are triangular.
+
+58-42: Touch exactly three objects that are red.
+59-42: Touch exactly one object that is [partially but not all] blue.
+61-42: Touch all but one objects that are triangular.
+68-42: Touch all but one objects that are triangular.
+69-42: Touch exactly one object that is square on the outside and triangular on the inside.
+70-42: Touch all but one objects that are triangular.
+71-42: Touch exactly one object that is square on the outside and triangular on the inside.
+72-42: Touch exactly one object that is [partially but not all] blue.
+76-42: Touch all but one objects that are triangular.
+79-42: Touch exactly three objects that are red.
+81-42: Touch exactly one object that is [partially but not all] blue.
+82-42: Touch all but one objects that are triangular.
+83-42: Touch exactly three objects that are red.
+
+58-43: Touch all but one objects that are triangular.
+59-43: Touch all but one objects that are triangular.
+61-43: Touch exactly one object that is square on the outside and triangular on the inside.
+68-43: Touch exactly one object that is square on the outside and triangular on the inside.
+69-43: Touch exactly one object that is [partially but not all] blue.
+70-43: Touch exactly three objects that are red.
+71-43: Touch exactly three objects that are red.
+72-43: Touch exactly one object that is square on the outside and triangular on the inside.
+76-43: Touch exactly three objects that are red.
+79-43: Touch exactly one object that is square on the outside and triangular on the inside.
+81-43: Touch exactly three objects that are red.
+82-43: Touch exactly one object that is [partially but not all] blue.
+83-43: Touch exactly one object that is square on the outside and triangular on the inside.
+
+58-44: Touch exactly one object that is [partially but not all] blue.
+59-44: Touch exactly three objects that are red.
+61-44: Touch exactly one object that is [partially but not all] blue.
+68-44: Touch exactly one object that is [partially but not all] blue.
+69-44: Touch all but one objects that are triangular.
+70-44: Touch exactly one object that is [partially but not all] blue.
+71-44: Touch all but one objects that are triangular.
+72-44: Touch exactly three objects that are red.
+76-44: Touch exactly one object that is square on the outside and triangular on the inside.
+79-44: Touch all but one objects that are triangular.
+81-44: Touch all but one objects that are triangular.
+82-44: Touch exactly three objects that are red.
+83-44: Touch exactly one object that is [partially but not all] blue.
+
